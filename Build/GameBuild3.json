@@ -1,0 +1,13 @@
+{
+"companyName": "AAAM",
+"productName": "FLEETING",
+"dataUrl": "GameBuild3.data.unityweb",
+"wasmCodeUrl": "GameBuild3.wasm.code.unityweb",
+"wasmFrameworkUrl": "GameBuild3.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "GameBuild3.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
