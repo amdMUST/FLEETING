@@ -22,7 +22,7 @@
     max-width: 100%;
     margin: 0 auto;
     padding-bottom: 2%;
-    z-index: 0;
+    z-index: 1;
     position: relative;
     display: block;
 }
@@ -55,23 +55,8 @@
     display: block;
 }
 
-/*@media only screen and (max-width: 1299px) {
-    #fleeting_title{
-      display: none;
-      max-width: 0;
-    }
-  }
-
   @media only screen and (max-height: 950px) {
     #fleeting_title{
-      display: block;
-      max-width: 50%;
+      z-index: 0;
     }
   }
-
-  @media only screen and (max-height: 900px) {
-    #fleeting_title{
-      display: block;
-      max-width: 50%;
-    }
-  }*/
